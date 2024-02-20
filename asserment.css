@@ -1,0 +1,48 @@
+ body{
+    max-width:1175px;
+
+ }
+ .navbar-end{
+    display: flex;
+ }
+ .btn-t{
+    display: flex;
+ }
+ .c{
+    color: azure;
+    text-align: center;
+    font-size: 50px;
+ }
+ .d{
+    color: rgb(14, 239, 239);
+    font-size: 50px;
+    text-align: center;
+ }
+ .p{
+    width: 529px;
+    text-align: center;
+    margin-left: 320px;
+    color: honeydew;
+
+ }
+  
+ .b{
+    background: rgb(31, 239, 4);
+    
+ }
+ .btn a{
+background-color: red;
+text-align: center;
+
+ }
+ .bat{
+    color:honeydew;
+    padding: 8px 22px;
+    border-radius: 6px;
+    background-color: rgb(31, 239, 4);
+    
+
+ }
+ .pera{
+    text-align: center;
+ }
